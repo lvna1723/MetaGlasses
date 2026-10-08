@@ -1,0 +1,6 @@
+/* "xiao-1" es el device_id */
+#pragma once
+
+/* Copia este archivo a backend_config.h y pon la IP de tu backend.
+ * backend_config.h esta en .gitignore -- nunca se sube al repo. */
+#define BACKEND_WS_URI "ws://192.168.1.100:8000/ws/cam/xiao-1"

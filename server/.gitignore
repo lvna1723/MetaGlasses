@@ -1,0 +1,14 @@
+# entorno virtual
+.venv/
+__pycache__/
+*.pyc
+
+# secretos
+.env
+
+# contenido generado por el dispositivo (fotos/audio/video reales) -- no se sube
+media/
+
+# varios
+.DS_Store
+*.db

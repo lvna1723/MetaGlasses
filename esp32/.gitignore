@@ -1,0 +1,6 @@
+build/
+sdkconfig
+sdkconfig.old
+managed_components/
+main/wifi_credentials.h
+main/backend_config.h
