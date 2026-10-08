@@ -1,4 +1,4 @@
-# MetaGlassesPiratas 🏴‍☠️🥽
+# MetaGlasses 🥽
 
 Lentes con cámara, micrófono y bocina (basados en el Seeed XIAO ESP32S3 Sense) que funcionan como un asistente de voz con IA: detectan la palabra de activación **"Jarvis"**, graban lo que dices, se lo mandan a **Gemini** (con capacidad de "ver" a través de la cámara si la pregunta lo requiere) y responden en voz alta por la bocina. Todo controlado y monitoreado desde una app móvil.
 
